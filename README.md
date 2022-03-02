@@ -1,4 +1,4 @@
-# Hi there 👋, I am Flynn Rider The Full-Stack Junkie
+# Full-Stack Junkie
 
 > Hardworking and Passionate developer. Love building project ranging from frontend all the way to backend
 
